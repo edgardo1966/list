@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/72/History_logo_2008.png/revision/latest?cb=20091117122440" tvg-name="History" group-title="Canales",History
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/77/Cartoon_Network_Logo.png/revision/latest?cb=20100410180608" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
+http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/320.flv
+#EXTINF:-1, tvg-logo="https://vignette3.wikia.nocookie.net/bones/images/f/f8/FOX_logo.png/revision/latest?cb=20130518030101" tvg-name="FOX" group-title="Canales",FOX
+https://cdn.opencable.es/hls/live/fox/index.m3u8
+#EXTINF:-1, tvg-logo="http://wallpapersiq.com/wp-content/uploads/img/gravity-falls-hd-1920x1080.jpg" tvg-name="Gravity falls" group-title="Infantil",Gravity falls
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2000px-MEGA.svg.png" tvg-name="MEGA HD" group-title="Canales",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imediagala.files.wordpress.com/2015/12/a3series.jpg" tvg-name="A3SERIES HD" group-title="Canales", A3SERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png/revision/latest?cb=20150820223454" group-title="Canales", TNT España
+https://cdn.opencable.es/hls/live/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="Canales", Las Estrellas Latinoamerica 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/p9MDp/5a6d5fec70.png" group-title="USA", WWE Network
+http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/8410.m3u8
+#EXTINF:-1 tvg-logo="http://www.clipartdude.com/clip-arts/910/transparent-play-button-910254.png" group-title="Canales", EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130511014401/mixedmartialarts/images/c/c5/UFC_logo.png" group-title="USA", UFC NETWORK
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8308.ts
+#EXTINF:-1 tvg-logo="http://www.spike.com/press/files/2011/06/Spike-Logo-High-Rez-Black-on-White.jpg" group-title="USA", Spike 
+http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/13179.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="USA", History
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15245.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="USA", NatGeo Wild 
+http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1636.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="USA", NatGeo
+http://s1.iptv66.tv/live/7984279085471/7984279085471/306.ts
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/DISCOVERYHISTORIA.png" group-title="USA", Discovery History
+http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1637.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="USA", Animal Planet 
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15250.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="USA", Discovery Channel
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16823.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="DEPORTES", Fox Sports HD
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Canales", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="Canales", AMC
+http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="Canales", Space
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15967.ts
+#EXTINF:-1, tvg-logo="http://descargarsimpsonlatino.com/wp-content/uploads/2016/06/logo-DS-wp.png" tvg-name="Los simpsons 24/7" group-title="Canales 24/7",Los simpsons 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/chunklist_w126845892.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, tvg-logo="http://static.azteca.com//TvAztecaLogo.png" tvg-name="Azteca13" group-title="Canales",Azteca13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="http://imagenesdenarutoparadibujar.com/wp-content/uploads/2016/07/imagenes-de-los-simpson-hd-gratis.jpg" tvg-name="simpsonmaniahd14" group-title="Canales 24/7",simpsonmaniahd14
+http://vaughnlive.tv/simpsonmaniahd14
+
+
+
+
+
+
+
+
+
+
+
